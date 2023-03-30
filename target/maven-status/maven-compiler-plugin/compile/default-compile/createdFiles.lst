@@ -1,0 +1,4 @@
+com\arrisdev\demospringbootgitworkflow\controller\UserController.class
+com\arrisdev\demospringbootgitworkflow\DemoSpringbootGitWorkflowApplication.class
+com\arrisdev\demospringbootgitworkflow\model\User.class
+com\arrisdev\demospringbootgitworkflow\service\UserService.class
